@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SURAJPATIL6088
 - 👀 I’m interested in Problem Solving, Android Developement
 - 🌱 I’m currently learning Second Year of Computer Engineering
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Team Projects
 - 📫 How to reach me surajpatil3941@gmail.com
 
 <!---
