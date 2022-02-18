@@ -1,7 +1,8 @@
 ![Suraj Patil New](https://user-images.githubusercontent.com/78692972/150284093-cf607662-63a0-49c2-aaa9-9bf7f44536f4.jpg)
 <h1 align="center">Hi 👋, I'm Suraj Patil</h1>
-- 🔭 I’m currently working on **Smart Tutor Application**
 
+- 🔭 I’m currently working on **Smart Tutor Application**
+<img align="right" src="https://i.imgur.com/1AMqiST.gif" height=20% width=20%/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 - 🌱 I’m currently learning **DSA, Android Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SURAJPATIL6088/Android_Developement_In_Kotlin](https://github.com/SURAJPATIL6088/Android_Developement_In_Kotlin)
@@ -9,6 +10,26 @@
 - 💬 Ask me about **C++, Android**
 
 - 📫 How to reach me **surajpatil3941@gmail.com**
+
+<!--- Profile views --->
+<img src="https://komarev.com/ghpvc/?username=SURAJPATIL6088&color=blueviolet&style=plastic" alt="None"/> </a> </p>
+
+</p>
+
+```cpp
+      class SURAJ
+      {
+          public:
+          {
+              void Print(Suraj_Patil)
+              {
+                 cout<<"C++"<<endl
+                     <<"Android Developement"<<endl
+                     <<"Data Structure in C++"<<endl;
+              }
+          }
+      }
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
