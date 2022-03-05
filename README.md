@@ -21,14 +21,14 @@
       {
           public:
           {
-              void Print(Suraj_Patil)
+              void Print(void)
               {
                  cout<<"C++"<<endl
                      <<"Android Developement"<<endl
                      <<"Data Structure in C++"<<endl;
               }
           }
-      }
+      };
 ```
 
 <h3 align="left">Connect with me:</h3>
