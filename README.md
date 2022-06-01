@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Patil</h1>
 
 - 🔭 I’m currently working on **Smart Tutor Application**
-<img align="right" src="https://i.imgur.com/1AMqiST.gif" height=20% width=20%/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+
 - 🌱 I’m currently learning **DSA, Android Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SURAJPATIL6088/Android_Developement_In_Kotlin](https://github.com/SURAJPATIL6088/Android_Developement_In_Kotlin)
