@@ -1,13 +1,13 @@
 ![Suraj Patil New](https://user-images.githubusercontent.com/78692972/150284093-cf607662-63a0-49c2-aaa9-9bf7f44536f4.jpg)
 <h1 align="center">Hi 👋, I'm Suraj Patil</h1>
 
-- 🔭 I’m currently working on **Smart Tutor Application**
+- 🔭 I’m currently working on **Fake Product Identification Using Blockchain**
 
-- 🌱 I’m currently learning **DSA, Android Development**
+- 🌱 I’m currently learning **DSA, Full stack Blockchain Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SURAJPATIL6088/Android_Developement_In_Kotlin](https://github.com/SURAJPATIL6088/Android_Developement_In_Kotlin)
 - DSA Repository : [https://github.com/SURAJPATIL6088/My-100_DaysOfCode_DSA](https://github.com/SURAJPATIL6088/My-100_DaysOfCode_DSA)
-- 💬 Ask me about **C++, Android**
+- 💬 Ask me about **C++, Blockchain**
 
 - 📫 How to reach me **surajpatil3941@gmail.com**
 
@@ -15,21 +15,6 @@
 <img src="https://komarev.com/ghpvc/?username=SURAJPATIL6088&color=blueviolet&style=plastic" alt="None"/> </a> </p>
 
 </p>
-
-```cpp
-      class SURAJ
-      {
-          public:
-          {
-              void Print(void)
-              {
-                 cout<<"C++"<<endl
-                     <<"Android Developement"<<endl
-                     <<"Data Structure in C++"<<endl;
-              }
-          }
-      };
-```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
