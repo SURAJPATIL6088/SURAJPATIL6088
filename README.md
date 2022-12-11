@@ -1,4 +1,4 @@
-![Suraj Patil New]![Suraj Patil](https://user-images.githubusercontent.com/78692972/206909085-282099a6-f63b-4a44-95c3-a4106f583d17.jpg)
+![Suraj Patil](https://user-images.githubusercontent.com/78692972/206909085-282099a6-f63b-4a44-95c3-a4106f583d17.jpg)
 
 <h1 align="center">Hi 👋, I'm Suraj Patil</h1>
 
