@@ -1,4 +1,5 @@
-![Suraj Patil New](https://user-images.githubusercontent.com/78692972/150284093-cf607662-63a0-49c2-aaa9-9bf7f44536f4.jpg)
+![Suraj Patil New]![Suraj Patil](https://user-images.githubusercontent.com/78692972/206909085-282099a6-f63b-4a44-95c3-a4106f583d17.jpg)
+
 <h1 align="center">Hi 👋, I'm Suraj Patil</h1>
 
 - 🔭 I’m currently working on **Fake Product Identification Using Blockchain**
