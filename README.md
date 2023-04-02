@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suraj-patil-692451205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suraj-patil-692451205/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suraj-patil-692451205/" target="blank"><img align="center" src="#" alt="https://www.linkedin.com/in/suraj-patil-692451205/" height="30" width="40" /><i class="fa-brands fa-linkedin" style="color: #00e1ff;"></i>></a>
 <a href="https://www.hackerearth.com/@surajpatil3941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@surajpatil3941" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/surajpatil3941 / https://auth.geeksforgeeks.org/user/surajpatil3941/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="surajpatil3941 / https://auth.geeksforgeeks.org/user/surajpatil3941/practice/" height="30" width="40" /></a>
 </p>
