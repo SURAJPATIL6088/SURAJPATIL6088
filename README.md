@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Patil</h1>
 
 - 🔭 I’m currently working on **Fake Product Identification Using Blockchain**
+- 👨‍💻 look at my portfolio here **https://surajpatil6088.github.io/My-Portfolio/#**
 
 - 🌱 I’m currently learning **DSA, Full stack Blockchain Development**
 
