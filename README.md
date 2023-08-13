@@ -16,15 +16,18 @@
 </p>
 
 ### Languages
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/SURAJPATIL6088)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/SURAJPATIL6088)
+[![Solidity](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity)](https://github.com/SURAJPATIL6088)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/SURAJPATIL6088)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/SURAJPATIL6088)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/SURAJPATIL6088)
 
 ### Technologies & Frameworks
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/SURAJPATIL6088)
+[![React.js](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/SURAJPATIL6088)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/SURAJPATIL6088)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/SURAJPATIL6088)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://github.com/SURAJPATIL6088)
+[![Web3.js](https://img.shields.io/badge/Web3.js-black?style=for-the-badge&logo=Web3.js)](https://github.com/SURAJPATIL6088)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajpatil6088&label=Profile%20views&color=0e75b6&style=flat" alt="surajpatil6088" /> </p>
 
