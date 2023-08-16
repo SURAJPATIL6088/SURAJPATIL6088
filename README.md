@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Suraj.<br>
-        A passionate DSA, Full Stack Blockchain development.<br>
+        A passionate about DSA, Full Stack Blockchain development.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/suraj-patil-692451205/">
@@ -36,8 +36,6 @@
 - 🌱 I’m currently learning **DSA, Full stack Blockchain Development**
 
 - 👨‍💻 All of my projects are available at [https://surajpatil6088.github.io/My-Portfolio/#](https://surajpatil6088.github.io/My-Portfolio/#)
-
-- 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/surajpatil3941/articles](https://auth.geeksforgeeks.org/user/surajpatil3941/articles)
 
 - 💬 Ask me about **C++, DSA, Blockchain**
 
