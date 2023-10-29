@@ -31,7 +31,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajpatil6088&label=Profile%20views&color=0e75b6&style=flat" alt="surajpatil6088" /> </p>
 
-- 🔭 I’m currently working on **Fake Product Identification Using Blockchain**
+- 🔭 I’m currently working on **eVault for Storing And Sharing Platform with Blockchain Technology**
+
+- 🔭 My most Awaited project check here **Fake Product Identification Using Blockchain**
 
 - 🌱 I’m currently learning **DSA, Full stack Blockchain Development**
 
