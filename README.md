@@ -24,8 +24,11 @@
 
 ### Technologies & Frameworks
 [![React.js](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/SURAJPATIL6088)
+[![Node.js](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodejs)](https://github.com/SURAJPATIL6088)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/SURAJPATIL6088)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/SURAJPATIL6088)
+[![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/SURAJPATIL6088)
+[![Mongodb](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/SURAJPATIL6088)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://github.com/SURAJPATIL6088)
 [![Web3.js](https://img.shields.io/badge/Web3.js-black?style=for-the-badge&logo=Web3.js)](https://github.com/SURAJPATIL6088)
 
@@ -39,7 +42,7 @@
 
 - 👨‍💻 All of my projects are available at [https://surajpatil6088.github.io/My-Portfolio/#](https://surajpatil6088.github.io/My-Portfolio/#)
 
-- 💬 Ask me about **C++, DSA, Blockchain**
+- 💬 Ask me about **C++, DSA, Frontend, Backend, Blockchain**
 
 <!--- Profile views --->
 
@@ -49,8 +52,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajpatil6088&show_icons=true&locale=en" alt="surajpatil6088" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajpatil6088&" alt="surajpatil6088" /></p>
+## My GitHub Analytics 📈
 
+<div>
+
+[![Suraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=surajpatil6088&hide_border=true&theme=nightowl)](https://github.com/surajpatil6088/github-readme-activity-graph)
+
+</div>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
